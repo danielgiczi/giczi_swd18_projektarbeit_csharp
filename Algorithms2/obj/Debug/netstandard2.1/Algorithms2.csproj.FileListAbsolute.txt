@@ -15,3 +15,4 @@ C:\Users\Giczi\Documents\Projects\giczi_swd18_projektarbeit_csharp\Algorithms2\o
 C:\Users\Giczi\Documents\Projects\giczi_swd18_projektarbeit_csharp\Algorithms2\obj\Debug\netstandard2.1\Algorithms2.csproj.CoreCompileInputs.cache
 C:\Users\Giczi\Documents\Projects\giczi_swd18_projektarbeit_csharp\Algorithms2\obj\Debug\netstandard2.1\Algorithms.dll
 C:\Users\Giczi\Documents\Projects\giczi_swd18_projektarbeit_csharp\Algorithms2\obj\Debug\netstandard2.1\Algorithms.pdb
+C:\Users\Giczi\Documents\Projects\giczi_swd18_projektarbeit_csharp\Algorithms2\obj\Debug\netstandard2.1\Algorithms2.csprojAssemblyReference.cache

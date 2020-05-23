@@ -17,6 +17,7 @@ namespace Algorithms
 
         public Map(string chosenMap)
         {
+            chosenMap = Regex.Replace(chosenMap, "\r", "");
             var rows = chosenMap.Split("\n");
 
             var mapArr = new List<List<int>>();

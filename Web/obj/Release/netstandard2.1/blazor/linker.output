@@ -18,7 +18,6 @@ obj\Release\netstandard2.1\blazor\linker\mscorlib.dll
 obj\Release\netstandard2.1\blazor\linker\System.Core.dll
 obj\Release\netstandard2.1\blazor\linker\System.dll
 obj\Release\netstandard2.1\blazor\linker\System.Net.Http.dll
-obj\Release\netstandard2.1\blazor\linker\System.Net.Http.Json.dll
 obj\Release\netstandard2.1\blazor\linker\System.Net.Http.WebAssemblyHttpHandler.dll
 obj\Release\netstandard2.1\blazor\linker\System.Runtime.CompilerServices.Unsafe.dll
 obj\Release\netstandard2.1\blazor\linker\System.Text.Encodings.Web.dll

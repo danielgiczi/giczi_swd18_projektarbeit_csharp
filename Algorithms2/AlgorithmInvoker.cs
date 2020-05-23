@@ -25,8 +25,10 @@ namespace Algorithms
                 case 0:
                     break;
                 case 1:
+                    algorithm = new DijkstraAlgorithm(data.StartX, data.StartY, data.DestX, data.DestY, data.MapData);
                     break;
                 case 2:
+                    algorithm = new BreadthFirstSearchAlgorithm(data.StartX, data.StartY, data.DestX, data.DestY, data.MapData);
                     break;
                 case 3:
                     algorithm = new DepthFirstSearchAlgorithm(data.StartX, data.StartY, data.DestX, data.DestY, data.MapData);
