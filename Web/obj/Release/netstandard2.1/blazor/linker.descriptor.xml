@@ -1,0 +1,5 @@
+﻿<linker>
+  <assembly fullname="Web">
+    <type fullname="*" required="true" />
+  </assembly>
+</linker>

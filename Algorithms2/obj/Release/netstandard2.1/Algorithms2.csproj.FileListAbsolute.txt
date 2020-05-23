@@ -1,0 +1,8 @@
+C:\Users\Giczi\Documents\Projects\giczi_swd18_projektarbeit_csharp\Algorithms2\bin\Release\netstandard2.1\Algorithms.deps.json
+C:\Users\Giczi\Documents\Projects\giczi_swd18_projektarbeit_csharp\Algorithms2\bin\Release\netstandard2.1\Algorithms.dll
+C:\Users\Giczi\Documents\Projects\giczi_swd18_projektarbeit_csharp\Algorithms2\bin\Release\netstandard2.1\Algorithms.pdb
+C:\Users\Giczi\Documents\Projects\giczi_swd18_projektarbeit_csharp\Algorithms2\obj\Release\netstandard2.1\Algorithms2.AssemblyInfoInputs.cache
+C:\Users\Giczi\Documents\Projects\giczi_swd18_projektarbeit_csharp\Algorithms2\obj\Release\netstandard2.1\Algorithms2.AssemblyInfo.cs
+C:\Users\Giczi\Documents\Projects\giczi_swd18_projektarbeit_csharp\Algorithms2\obj\Release\netstandard2.1\Algorithms2.csproj.CoreCompileInputs.cache
+C:\Users\Giczi\Documents\Projects\giczi_swd18_projektarbeit_csharp\Algorithms2\obj\Release\netstandard2.1\Algorithms.dll
+C:\Users\Giczi\Documents\Projects\giczi_swd18_projektarbeit_csharp\Algorithms2\obj\Release\netstandard2.1\Algorithms.pdb

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests", "Tests\Tests.csproj", "{1F27548B-D8BB-4CA2-86E4-561689579580}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algorithms2", "Algorithms2\Algorithms2.csproj", "{1E8C7543-21BB-4D77-A10F-5D71D4CFD6BE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Web", "Web\Web.csproj", "{2FF93EBD-F512-40E3-97FF-95C2EF594E64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F27548B-D8BB-4CA2-86E4-561689579580}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F27548B-D8BB-4CA2-86E4-561689579580}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F27548B-D8BB-4CA2-86E4-561689579580}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F27548B-D8BB-4CA2-86E4-561689579580}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E8C7543-21BB-4D77-A10F-5D71D4CFD6BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E8C7543-21BB-4D77-A10F-5D71D4CFD6BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E8C7543-21BB-4D77-A10F-5D71D4CFD6BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E8C7543-21BB-4D77-A10F-5D71D4CFD6BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FF93EBD-F512-40E3-97FF-95C2EF594E64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FF93EBD-F512-40E3-97FF-95C2EF594E64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FF93EBD-F512-40E3-97FF-95C2EF594E64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FF93EBD-F512-40E3-97FF-95C2EF594E64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E07A471-5FE4-453E-ABF6-5A2E7CFF142B}
+	EndGlobalSection
+EndGlobal
