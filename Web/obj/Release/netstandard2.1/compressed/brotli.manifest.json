@@ -1,22 +1,22 @@
 {
   "FilesToCompress": [
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\cbnTE5h_DT41SdKIeqNTCzuqcN0EU2J7E_YrIxPxM8Q=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\CMlEmMIrYqr2uLh-G9lqEwqPVxVV8RDlUe2VS47inG8=.hash",
       "Source": "C:\\Users\\Giczi\\Documents\\Projects\\giczi_swd18_projektarbeit_csharp\\Web\\obj\\Release\\netstandard2.1\\blazor\\linker\\Algorithms.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Algorithms.dll.br"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\aGLnTZtPnXDKIgZJ_kNE4UC2BQ28RwPlOyXQjHthnxU=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\vYGHAEwkidW44FzAdSnkapl4IqDSR_k5ksp73LO9r6s=.hash",
       "Source": "C:\\Users\\Giczi\\Documents\\Projects\\giczi_swd18_projektarbeit_csharp\\Web\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Components.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.dll.br"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\vkOlSbIUrff8JNSXQ684uq9_5btdnDaycfLbJScuLXs=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\1uy6hI0uyQtkWqxkyN9BmRd6H6S_yuRaYyKNz_B15KQ=.hash",
       "Source": "C:\\Users\\Giczi\\Documents\\Projects\\giczi_swd18_projektarbeit_csharp\\Web\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Components.Web.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.Web.dll.br"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\_Ezcniapu8zAj9pnn-fVJQD2w2AXPGycmNefjTKxrKU=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\-y9pSJvXv6CpDvCdjipVq4ppVDZCC77WqQA_oerrIt0=.hash",
       "Source": "C:\\Users\\Giczi\\Documents\\Projects\\giczi_swd18_projektarbeit_csharp\\Web\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Components.WebAssembly.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.WebAssembly.dll.br"
     },
@@ -26,47 +26,47 @@
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Bcl.AsyncInterfaces.dll.br"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\h8yDDh6Ll3OMoGs6jaT_dTNAniyKW2Un448VjfkSmDs=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\T3-orAV9zvYkLtMSYUAa43aA9BZZSx0brwDImRxsJ3Q=.hash",
       "Source": "C:\\Users\\Giczi\\Documents\\Projects\\giczi_swd18_projektarbeit_csharp\\Web\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Configuration.Abstractions.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Configuration.Abstractions.dll.br"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\91xW0KjDPhPYNhGCEXooAIpKnTNr0j87StaaFX9OnsI=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\wLzOQ2YjWyuU-BPoC8w9f-2qLYI-oZfW8tFBmAYP2do=.hash",
       "Source": "C:\\Users\\Giczi\\Documents\\Projects\\giczi_swd18_projektarbeit_csharp\\Web\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Configuration.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Configuration.dll.br"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\5sRcE2OWknH5TAguOPv5pmiBzIDiGkxGwoCcMLR1oHY=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\2Azo3_bsx7ujZMq4ckDZ5SgqzZlyFjTj81eixPTm-eI=.hash",
       "Source": "C:\\Users\\Giczi\\Documents\\Projects\\giczi_swd18_projektarbeit_csharp\\Web\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Configuration.Json.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Configuration.Json.dll.br"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\PB5SxMuK-kfL6aZCWhe79Ibi6hOZEU-H8L-ZRxIGhn0=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\9dLWxK7sllb-zD0u6YP0n6NrQj8-BUVixT9UplSCDdc=.hash",
       "Source": "C:\\Users\\Giczi\\Documents\\Projects\\giczi_swd18_projektarbeit_csharp\\Web\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.DependencyInjection.Abstractions.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.DependencyInjection.Abstractions.dll.br"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\ZXOmdgk__GAetnjXoOya7oETOuKn4gBjqv8I3sgv3tw=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\_Ug2lIrQ2DNMBxhTHIh1-B7RSCZx-cfbNRFjs6v-PAk=.hash",
       "Source": "C:\\Users\\Giczi\\Documents\\Projects\\giczi_swd18_projektarbeit_csharp\\Web\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.DependencyInjection.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.DependencyInjection.dll.br"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\4XnT9zxdajz42eC5hNF6xsM75lqOpz7UvQaczNDRECE=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\Be67ugoXdzsQGuhDYertkYMNjZAJYmTkweJp8D8uJxc=.hash",
       "Source": "C:\\Users\\Giczi\\Documents\\Projects\\giczi_swd18_projektarbeit_csharp\\Web\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Logging.Abstractions.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Logging.Abstractions.dll.br"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\xb695SzP45zf40IwZsg5YxGNeRjIIG9PzTIprscHa48=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\IUbKqKbramEjIIu-d3NnmSM6SRjlmWZyp3g0g5yN8nA=.hash",
       "Source": "C:\\Users\\Giczi\\Documents\\Projects\\giczi_swd18_projektarbeit_csharp\\Web\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Logging.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Logging.dll.br"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\qey_Jc4dHHsCnNVbik0SSiP7ZxupuDB7p4kcCLBEsVo=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\4bGv_WmXXsLkqgxf5qSDPeEIgm4qUlK5pOK4b1cOXhs=.hash",
       "Source": "C:\\Users\\Giczi\\Documents\\Projects\\giczi_swd18_projektarbeit_csharp\\Web\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Options.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Options.dll.br"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\bGbPjOqEy3cCcuGMgKL2sTeSvvEUbLcksfb7gksIvAk=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\szNZ3RjBPZTokVF-tFhY5sEkLkcSBC6T6OWNV98SijY=.hash",
       "Source": "C:\\Users\\Giczi\\Documents\\Projects\\giczi_swd18_projektarbeit_csharp\\Web\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Primitives.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Primitives.dll.br"
     },
@@ -81,52 +81,52 @@
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.br"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\6y4YKof80CyDUk_4-mquAtSfh53fLQ_Y6e3wwsVk53Y=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\fbGBrKnw4IMMymWf9A50tqjbXcKqXqLzGe0FERTVhG4=.hash",
       "Source": "C:\\Users\\Giczi\\Documents\\Projects\\giczi_swd18_projektarbeit_csharp\\Web\\obj\\Release\\netstandard2.1\\blazor\\linker\\mscorlib.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/mscorlib.dll.br"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\fEaMR3m6OQUurxsVH62aRUGKOjjG_g1J2IJpxqhCxJk=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\Xp5GExSda3P3TNE2UxcW-Auyo9AvYBBErKIkEHuSWrk=.hash",
       "Source": "C:\\Users\\Giczi\\Documents\\Projects\\giczi_swd18_projektarbeit_csharp\\Web\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Core.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Core.dll.br"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\XxTbJkz348dVKhqsSfA9pgsaqrtt_ozM7GL8mtGlVnk=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\lTse4r3WfvdgJwas-cbql4ISNLLpJBtfC54kO7FQyBU=.hash",
       "Source": "C:\\Users\\Giczi\\Documents\\Projects\\giczi_swd18_projektarbeit_csharp\\Web\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.dll.br"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\7YJRHbAuT4YSIw75iPky1OQxLldlzj134UUM0yi888M=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\MSXU1tZk22bZDhMbvFj3fkR8A5t2PIPxYy2W2ArEGkQ=.hash",
       "Source": "C:\\Users\\Giczi\\Documents\\Projects\\giczi_swd18_projektarbeit_csharp\\Web\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Net.Http.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Net.Http.dll.br"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\7juN_cLjbmhrmI7_2cSZ6u9xDvZ5jMmnTVMEB9zfXw4=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\QTtdWqwwbLWDiqyd94Pxfh0AT7OsZ8__Jyrj3k91iSo=.hash",
       "Source": "C:\\Users\\Giczi\\Documents\\Projects\\giczi_swd18_projektarbeit_csharp\\Web\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Net.Http.WebAssemblyHttpHandler.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Net.Http.WebAssemblyHttpHandler.dll.br"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\QhRKcJpt-RySOTZoxiF8WOjEvlQCBrJSb2bwK4lif1s=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\bOSK1TI2JEdqoH8kiM0GM_u2hOFjmHF1LjhHg2W_DXw=.hash",
       "Source": "C:\\Users\\Giczi\\Documents\\Projects\\giczi_swd18_projektarbeit_csharp\\Web\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Runtime.CompilerServices.Unsafe.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Runtime.CompilerServices.Unsafe.dll.br"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\cMF4XQ7WAIAnvvXZ-m-55Tp-LoYXx7x2GYsCyfP2Rk8=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\HqqSu7f_qVrvJBqMoKOP3pkN1w7IqcW_pcWPuPlxbjY=.hash",
       "Source": "C:\\Users\\Giczi\\Documents\\Projects\\giczi_swd18_projektarbeit_csharp\\Web\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Text.Encodings.Web.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Text.Encodings.Web.dll.br"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\V2nKk_Bt8xVwR_dYUVyeLmQJPKiDmrt58wj0Uc0GtjU=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\OZEecRCOueKK0g4eK7eFTvkzGpmnhbreV0IhOa9lmCc=.hash",
       "Source": "C:\\Users\\Giczi\\Documents\\Projects\\giczi_swd18_projektarbeit_csharp\\Web\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Text.Json.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Text.Json.dll.br"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\OcJ3PHtMeyNjN_-3FaOYWh3PFCKTNnWcBDMJY85vJBw=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\vig4KZmVnp4N5BYwqzkBcvzDGBjjfSioljJ-XPC1NZ8=.hash",
       "Source": "C:\\Users\\Giczi\\Documents\\Projects\\giczi_swd18_projektarbeit_csharp\\Web\\obj\\Release\\netstandard2.1\\blazor\\linker\\Web.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Web.dll.br"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\-wEvHupJNMuwInpFfhgxdNvzLHwJeWV7w06I1dlPq-E=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\YyT81_jiG13jd3Zm9n3vSCXBNl06DT7GdAEu7K9eNT0=.hash",
       "Source": "C:\\Users\\Giczi\\Documents\\Projects\\giczi_swd18_projektarbeit_csharp\\Web\\obj\\Release\\netstandard2.1\\blazor\\linker\\WebAssembly.Bindings.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/WebAssembly.Bindings.dll.br"
     },
@@ -151,7 +151,7 @@
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.br"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\sDMrZ3pH5Jk6hpcr-3J1BUuL_kPytDD8GRckZzarcfc=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\552T-SA27yt9OFU8O47yCYNrI1PB8SP-7Po_yePAbO4=.hash",
       "Source": "C:\\Users\\Giczi\\Documents\\Projects\\giczi_swd18_projektarbeit_csharp\\Web\\obj\\Release\\netstandard2.1\\blazor\\blazor.boot.json",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.br"
     }
