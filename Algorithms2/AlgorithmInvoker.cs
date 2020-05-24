@@ -18,11 +18,11 @@ namespace Algorithms
         {
             var sw = new System.Diagnostics.Stopwatch();
             sw.Start();
-            IAlgorithm algorithm = null;
-
+            IAlgorithm algorithm;
             switch (data.AlgorithmIndex)
             {
                 case 0:
+                    algorithm = new AStarAlgorithm(data.StartX, data.StartY, data.DestX, data.DestY, data.MapData);
                     break;
                 case 1:
                     algorithm = new DijkstraAlgorithm(data.StartX, data.StartY, data.DestX, data.DestY, data.MapData);
