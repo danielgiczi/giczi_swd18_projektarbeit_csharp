@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ryGutn63WXIdttiZ5mHwRZ6quYBa7FphoHX7vS1oSpf6RrhaPSVWDTwP+9Do1LUrRDOvJjAvqx7DbhLmyNQ03A==",
+  "dgSpecHash": "cA2+6DerP488yzYCtp+xFRgRbfSlpFZx7s2mXEsKPeFWZunTF3HN3RuARPMhBpKmcGJjW7ar8lI1E2Sn4nRvgA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Giczi\\Documents\\Projects\\giczi_swd18_projektarbeit_csharp\\Tests\\Tests.csproj",
   "expectedPackageFiles": [
@@ -90,8 +90,7 @@
     "C:\\Users\\Giczi\\.nuget\\packages\\system.threading.tasks.extensions\\4.3.0\\system.threading.tasks.extensions.4.3.0.nupkg.sha512",
     "C:\\Users\\Giczi\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\Giczi\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
-    "C:\\Users\\Giczi\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\Giczi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+    "C:\\Users\\Giczi\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }

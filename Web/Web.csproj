@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <Target Name="PostBuild" AfterTargets="PostBuildEvent">
-    <Exec Command="RMDIR /S /Q C:\Users\Giczi\Documents\Projects\giczi_swd18_projektarbeit\prod\_framework&#xD;&#xA;&#xD;&#xA;MKDIR &quot;C:\Users\Giczi\Documents\Projects\giczi_swd18_projektarbeit\prod\_framework&quot;&#xD;&#xA;XCOPY /Y &quot;$(TargetDir)/wwwroot/_framework&quot; &quot;C:\Users\Giczi\Documents\Projects\giczi_swd18_projektarbeit\prod\_framework&quot; /e" />
+    <Exec Command="RMDIR /S /Q C:\Users\Giczi\Documents\Projects\giczi_swd18_projektarbeit\prod-csharp\_framework&#xD;&#xA;&#xD;&#xA;MKDIR &quot;C:\Users\Giczi\Documents\Projects\giczi_swd18_projektarbeit\prod-csharp\_framework&quot;&#xD;&#xA;XCOPY /Y &quot;$(TargetDir)/wwwroot/_framework&quot; &quot;C:\Users\Giczi\Documents\Projects\giczi_swd18_projektarbeit\prod-csharp\_framework&quot; /e" />
   </Target>
 
 </Project>
